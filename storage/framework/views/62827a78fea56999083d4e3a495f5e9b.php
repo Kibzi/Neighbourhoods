@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Neighbourhoods-For-You\resources\views/Shops.blade.php ENDPATH**/ ?>
